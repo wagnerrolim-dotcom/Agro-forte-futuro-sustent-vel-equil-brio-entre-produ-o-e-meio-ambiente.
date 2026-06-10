@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agro Forte, Futuro Sustentável</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <div class="logo">AgroSustentável</div>
+        <nav>
+            <a href="#inicio">Início</a>
+            <a href="#pilares">Pilares</a>
+            <a href="#contato">Contato</a>
+        </nav>
+    </header>
+
+    <section id="inicio" class="hero">
+        <h1>Agro Forte, Futuro Sustentável</h1>
+        <p>O equilíbrio perfeito entre a alta produção agrícola e a preservação do meio ambiente.</p>
+    </section>
+
+    <main id="pilares">
+        <h2>Os Pilares do Agro Sustentável</h2>
+        
+        <div class="cards-container">
+            <div class="card">
+                <h3>Tecnologia no Campo</h3>
+                <p>Uso de drones, sensores e inteligência artificial para monitorar lavouras e evitar o desperdício de água e insumos.</p>
+            </div>
+
+            <div class="card">
+                <h3>Preservação Ambiental</h3>
+                <p>Práticas como o plantio direto, rotação de culturas e reflorestamento de áreas degradadas para proteger o solo e a biodiversidade.</p>
+            </div>
+
+            <div class="card">
+                <h3>Economia Verde</h3>
+                <p>Economizar nos agro toxicos para termos um alimento mais saudavel e com menos preocupações da origem dele, como também economizarmos nas produções para não afetar o meio ambiente (como o solo onde plantado os alimentos).</p>
